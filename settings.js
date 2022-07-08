@@ -64,13 +64,13 @@ global.location = "India, Mizoram, Aizawl" //ur location
 global.owner = ['94770342724']
 global.ownertag = '94770342724' //ur tag number
 global.botname = '➤ʀɴᴅ Bᴏᴛᴢ' //ur bot name
-global.linkz = "http://wa.me/94770342724" //your theme url which will be displayed on whatsapp
-global.websitex = "http://wa.me/94770342724" //ur website to be displayed
-global.botscript = 'https://github.com/Sianarnd/CheemsBot-MD4/edit/master/settings.js' //script link
-global.reactmoji = "😘" //ur menu react emoji
-global.themeemoji = "🇱🇰" //ur theme emoji
+global.linkz = "https://chat.whatsapp.com/LTaMb98NJ6C5cE2DZLl3jh" //your theme url which will be displayed on whatsapp
+global.websitex = "https://chat.whatsapp.com/LTaMb98NJ6C5cE2DZLl3jh" //ur website to be displayed
+global.botscript = 'https://chat.whatsapp.com/LTaMb98NJ6C5cE2DZLl3jh' //script link
+global.reactmoji = "😇" //ur menu react emoji
+global.themeemoji = "➢" //ur theme emoji
 global.packname = "ʀɴᴅ Bot Stickers\n\n\n\n\n\n\n\n\n\n\n🦄🦄🦄 " //ur sticker watermark packname
-global.author = "🦄Dʀᴇᴀᴍ ɢᴜʏ ʀɴᴅ➤" //ur sticker watermark author
+global.author = "►Dʀᴇᴀᴍ ɢᴜʏ ʀɴᴅ➤" //ur sticker watermark author
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
