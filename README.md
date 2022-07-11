@@ -4,7 +4,10 @@
 <p align="center">
 <img src="https://i.ibb.co/5ch7ZGZ/cheec.jpg" alt="animated" width="540" height="280" />
 </p>
-▁▁▁▁ Made By ➤Rawindu Nethsara
+
+▁▁▁▁ Made By ➤Rawindu Nethsara▁▁▁▁▁▁
+
+
 <p align="center">
 Cheems Bot Multi Device is a automated whatsapp bot created by <a href="https://github.com/DGXeon" target="_blank">Xeon</a> using <a href="https://github.com/adiwajshing/Baileys" target="_blank">Baileys</a> and <a href="https://github.com/nodejs" target="_blank">Nodejs</a>. Dont forget to give a star bro.
 </p>
