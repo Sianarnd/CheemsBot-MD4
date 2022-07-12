@@ -68,8 +68,8 @@ global.linkz = "https://chat.whatsapp.com/LTaMb98NJ6C5cE2DZLl3jh" //your theme u
 global.websitex = "https://chat.whatsapp.com/LTaMb98NJ6C5cE2DZLl3jh" //ur website to be displayed
 global.botscript = 'https://chat.whatsapp.com/LTaMb98NJ6C5cE2DZLl3jh' //script link
 global.reactmoji = "😇" //ur menu react emoji
-global.themeemoji = "➢" //ur theme emoji
-global.packname = "ʀɴᴅ Bot Stickers\n\n\n\n\n\n\n\n\n\n\n🦄🦄🦄 " //ur sticker watermark packname
+global.themeemoji = "➢" //ur theme emoji▂
+global.packname = "ʀɴᴅ Bot Stickers\n\n\n\n\n\n\n\n\n\n\nᴘᴏᴡᴇʀᴅ ʙʏ ➤ʀɴᴅ.... " //ur sticker watermark packname
 global.author = "►Dʀᴇᴀᴍ ɢᴜʏ ʀɴᴅ➤" //ur sticker watermark author
 
 //Bot theme media
