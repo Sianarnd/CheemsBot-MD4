@@ -64,9 +64,9 @@ global.location = "India, Mizoram, Aizawl" //ur location
 global.owner = ['94770342724']
 global.ownertag = '94770342724' //ur tag number
 global.botname = '➤ʀɴᴅ Bᴏᴛᴢ' //ur bot name
-global.linkz = "https://chat.whatsapp.com/LTaMb98NJ6C5cE2DZLl3jh" //your theme url which will be displayed on whatsapp
-global.websitex = "https://chat.whatsapp.com/LTaMb98NJ6C5cE2DZLl3jh" //ur website to be displayed
-global.botscript = 'https://chat.whatsapp.com/LTaMb98NJ6C5cE2DZLl3jh' //script link
+global.linkz = "https://chat.whatsapp.com/I7x1QscYLMlFOa2Sj5Tz4e" //your theme url which will be displayed on whatsapp
+global.websitex = "https://chat.whatsapp.com/I7x1QscYLMlFOa2Sj5Tz4e" //ur website to be displayed
+global.botscript = 'https://chat.whatsapp.com/I7x1QscYLMlFOa2Sj5Tz4e' //script link
 global.reactmoji = "😇" //ur menu react emoji
 global.themeemoji = "➢" //ur theme emoji▂
 global.packname = "ʀɴᴅ Bot Stickers\n\n\n\n\n\n\n\n\n\n\nᴘᴏᴡᴇʀᴅ ʙʏ ➤ʀɴᴅ.... " //ur sticker watermark packname
@@ -79,7 +79,7 @@ global.err4r = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur error pic
 global.thumb = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
 
 //damtabase
-global.premium = ['916909137213'] //ur premium numbers
+global.premium = ['94770342724'] //ur premium numbers
 global.ntilinkytvid = []
 global.ntilinkytch = []
 global.ntilinkig = []
@@ -107,7 +107,8 @@ global.sp = '⭔'
 global.mess = {
     success: 'Done ✓',
     admin: 'This Feature Is Only For Admin!',
-    botAdmin: 'Bot Must Be Admin First!',
+    botAdmin: 'Bot Must Be Admin First!
+            ►බොට් වෙත [ᴀᴅᴍɪɴ]ලබා දිය යුතුය.',
     owner: 'This Feature Is Only For Owner!',
     group: 'Feature Used Only For Groups!',
     private: 'Features Used Only For Private Chat!',
